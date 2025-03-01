@@ -60,6 +60,7 @@
 3,0,TFFFC,lsq.eqg,Loading Characters
 3,0,TFFFC,fgt.eqg,Loading Characters
 3,0,TFFFC,sdc_chr,Loading Characters
+3,0,TFFFC,efr_chr,Loading Characters
 3,0,TFFFC,cst_chr,Loading Characters
 3,0,TFFFC,rap_chr,Loading Characters
 3,0,TFFFC,Dpm_chr,Loading Characters
