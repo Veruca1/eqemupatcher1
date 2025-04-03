@@ -35654,6 +35654,7 @@
 40639^0^This banner will rally your guildmates, infusing them with up to 120 resistance to disease.<br><br>This banner requires a Banner Material Kit: Aura of Disease and a Banner Dye Kit: Sharp Extravagant Dye to create.^0
 40640^0^This banner will rally your guildmates, infusing them with up to 135 resistance to disease.<br><br>This banner requires a Banner Material Kit: Aura of Disease and a Banner Dye Kit: Sharp Embroidered Dye to create.^0
 40641^0^This banner will rally your guildmates, infusing them with up to 150 resistance to disease.<br><br>This banner requires a Banner Material Kit: Aura of Disease and a Banner Dye Kit: Sharp Formal Dye to create.^0
+40641^6^Decreases HP by 3500 pet tic, and roots, for a duration of 5 tics.^0
 40642^0^This banner will rally your guildmates, infusing them with up to 3 resistance to corruption.<br><br>This banner requires a Banner Material Kit: Aura of Corruption and a Banner Dye Kit: Sharp Simple Dye to create.^0
 40643^0^This banner will rally your guildmates, infusing them with up to 6 resistance to corruption.<br><br>This banner requires a Banner Material Kit: Aura of Corruption and a Banner Dye Kit: Sharp Fine Dye to create.^0
 40644^0^This banner will rally your guildmates, infusing them with up to 9 resistance to corruption.<br><br>This banner requires a Banner Material Kit: Aura of Corruption and a Banner Dye Kit: Sharp Fancy Dye to create.^0
@@ -35676,7 +35677,7 @@
 40661^0^This banner will rally your guildmates, allowing them to take on the form of an iksar.<br><br>This banner requires a Banner Material Kit: Iksar Canvas and a Banner Dye Kit: Shiny Simple Dye to create.^0
 40662^0^This banner will rally your guildmates, allowing them to take on the form of an ogre.<br><br>This banner requires a Banner Material Kit: Ogre Canvas and a Banner Dye Kit: Shiny Simple Dye to create.^0
 40663^0^This banner will rally your guildmates, allowing them to take on the form of a troll.<br><br>This banner requires a Banner Material Kit: Troll Canvas and a Banner Dye Kit: Shiny Simple Dye to create.^0
-40663^6^your outgoing damage will increase by 20%^0
+40663^6^fills you with the speed of a rabbit 120%^0
 40664^0^This banner will rally your guildmates, allowing them to take on the form of a vah shir.<br><br>This banner requires a Banner Material Kit: Vah Shir Canvas and a Banner Dye Kit: Shiny Simple Dye to create.^0
 40664^6^This effect will double all loot drops gained for a short period^0
 40665^0^This banner will rally your guildmates, allowing them to take on the form of a wood elf.<br><br>This banner requires a Banner Material Kit: Wood Elf Canvas and a Banner Dye Kit: Shiny Simple Dye to create.^0
@@ -35690,6 +35691,7 @@
 40669^0^This banner will rally your guildmates, allowing them to take on the form of an aery elemental.<br><br>This banner requires a Banner Material Kit: Aery Essence and a Banner Dye Kit: Shiny Fine Dye to create.^0
 40670^0^This banner will rally your guildmates, allowing them to take on the form of a flame elemental.<br><br>This banner requires a Banner Material Kit: Fiery Essence and a Banner Dye Kit: Shiny Fine Dye to create.^0
 40671^0^This banner will rally your guildmates, allowing them to take on the form of an auqeous elemental.<br><br>This banner requires a Banner Material Kit: Aqueous Essence and a Banner Dye Kit: Shiny Fine Dye to create.^0
+40671^6^Summons a random Easter Egg with magical effects^0
 40672^0^This banner will rally your guildmates, allowing them to take on the form of a spirit wolf.<br><br>This banner requires a Banner Material Kit: Spirits Essence and a Banner Dye Kit: Shiny Fancy Dye to create.^0
 40673^0^This banner will rally your guildmates, allowing them to take on the form of a werewolf.<br><br>This banner requires a Banner Material Kit: Werewolf Essence and a Banner Dye Kit: Shiny Fancy Dye to create.^0
 40674^0^This banner will rally your guildmates, allowing them to take on the form of a beholder.<br><br>This banner requires a Banner Material Kit: Evil Eye Essence and a Banner Dye Kit: Shiny Ornate Dye to create.^0
@@ -37337,6 +37339,7 @@
 1050884^6^A shield of Veeshan’s fury surrounds you.^0
 1050885^6^"Reflects damage to attackers and increases hate."^0
 1050886^6^^0
+1050887^6^^0
 1120101^22^Tier I^0
 1120101^23^Race: Human<br>Type: Damage Caster<br>Confidence: Low<br>Proficiency: Apprentice, Tier I<br><br>Description: The mercenary you will be assigned is an apprentice damage caster of the first tier who exhibits a basic proficiency in the critical spells and skills used in their profession. Typically, this classification consists of mercenaries that have no field experience and possess no formal apprentice-level education, two factors that play a critical role in defining the mercenary's confidence level and frequent tendency to flee during moderately challenging encounters.<br><br>The mercenary's appointment to you will serve as an official introduction to their apprenticeship and the contractual, monetary obligations associated with the mercenary's services are commensurate with their experience. ^0
 1120102^22^Tier II^0
