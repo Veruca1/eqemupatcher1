@@ -35697,6 +35697,7 @@
 40673^0^This banner will rally your guildmates, allowing them to take on the form of a werewolf.<br><br>This banner requires a Banner Material Kit: Werewolf Essence and a Banner Dye Kit: Shiny Fancy Dye to create.^0
 40674^0^This banner will rally your guildmates, allowing them to take on the form of a beholder.<br><br>This banner requires a Banner Material Kit: Evil Eye Essence and a Banner Dye Kit: Shiny Ornate Dye to create.^0
 40675^0^This banner will rally your guildmates, allowing them to take on the form of an imp.<br><br>This banner requires a Banner Material Kit: Imp Essence and a Banner Dye Kit: Shiny Ornate Dye to create.^0
+40675^6^This charm is unresistable and works on mobs up to level 25, plus it gives that added stats while charmed.^0
 40676^0^This banner will rally your guildmates, allowing them to take on the form of a froglok.<br><br>This banner requires a Banner Material Kit: Krup Essence and a Banner Dye Kit: Shiny Intricate Dye to create.^0
 40677^0^This banner will rally your guildmates, allowing them to take on the form of a scarecrow.<br><br>This banner requires a Banner Material Kit: Scarecrow Essence and a Banner Dye Kit: Shiny Intricate Dye to create.^0
 40678^0^This banner will rally your guildmates, allowing them to take on the form of a skeleton.<br><br>This banner requires a Banner Material Kit: Skeleton Essence and a Banner Dye Kit: Shiny Fine Dye to create.^0
