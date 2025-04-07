@@ -34599,6 +34599,7 @@
 36836^6^Absorbs a percentage of damage up to a total of 50,000 before fading.^0
 36837^6^Your melee speed and movement rate have been lowered.^0
 36838^6^You have been silenced.^0
+36851^6^a very powerful enchanter buff for the group^0
 37146^6^Summons an eye of power to attack your target for @1 seconds.^0
 37169^6^Spawns a familiar, which increases damage for all spells by thirty to sixty percent for all instant-cast detrimental spells level 100 and below.^0
 37171^6^Slows casting and melee speeds by 20 percent for up to %z.^0
