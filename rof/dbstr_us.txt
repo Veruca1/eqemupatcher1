@@ -35700,6 +35700,7 @@
 40675^6^This charm is unresistable and works on mobs up to level 25, plus it gives that added stats while charmed.^0
 40676^0^This banner will rally your guildmates, allowing them to take on the form of a froglok.<br><br>This banner requires a Banner Material Kit: Krup Essence and a Banner Dye Kit: Shiny Intricate Dye to create.^0
 40677^0^This banner will rally your guildmates, allowing them to take on the form of a scarecrow.<br><br>This banner requires a Banner Material Kit: Scarecrow Essence and a Banner Dye Kit: Shiny Intricate Dye to create.^0
+40677^6^a damage spell that does 50 DD to the party^0
 40678^0^This banner will rally your guildmates, allowing them to take on the form of a skeleton.<br><br>This banner requires a Banner Material Kit: Skeleton Essence and a Banner Dye Kit: Shiny Fine Dye to create.^0
 40679^0^This banner will rally your guildmates, allowing them to take on the form of a drybone skeleton.<br><br>This banner requires a Banner Material Kit: Drybone Essence and a Banner Dye Kit: Shiny Elaborate Dye to create.^0
 40680^0^This banner will rally your guildmates, allowing them to take on the form of a frostbone skeleton.<br><br>This banner requires a Banner Material Kit: Frostbone Essence and a Banner Dye Kit: Shiny Elaborate Dye to create.^0
