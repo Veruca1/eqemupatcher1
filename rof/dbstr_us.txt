@@ -35733,6 +35733,7 @@
 40706^0^This banner will rally your guildmates, granting them up to 150 additional mana.<br><br>This banner requires a Banner Material Kit: Aura of Mana and a Banner Dye Kit: Shiny Simple Dye to create.^0
 40706^6^with this mark on you, you will take on extensive fierce damage should you attack Frostbane.^0
 40707^0^This banner will rally your guildmates, granting them up to 300 additional mana.<br><br>This banner requires a Banner Material Kit: Aura of Mana and a Banner Dye Kit: Shiny Fine Dye to create.^0
+40707^6^throw a stone and have a chance to strike a target with the ethereal stone effect (300 Damage)^0
 40708^0^This banner will rally your guildmates, granting them up to 450 additional mana.<br><br>This banner requires a Banner Material Kit: Aura of Mana and a Banner Dye Kit: Shiny Fancy Dye to create.^0
 40709^0^This banner will rally your guildmates, granting them up to 600 additional mana.<br><br>This banner requires a Banner Material Kit: Aura of Mana and a Banner Dye Kit: Shiny Ornate Dye to create.^0
 40710^0^This banner will rally your guildmates, granting them up to 750 additional mana.<br><br>This banner requires a Banner Material Kit: Aura of Mana and a Banner Dye Kit: Shiny Intricate Dye to create.^0
