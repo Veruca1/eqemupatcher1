@@ -35738,6 +35738,7 @@
 40707^6^throw a stone and have a chance to strike a target with the ethereal stone effect (300 Damage)^0
 40708^0^This banner will rally your guildmates, granting them up to 450 additional mana.<br><br>This banner requires a Banner Material Kit: Aura of Mana and a Banner Dye Kit: Shiny Fancy Dye to create.^0
 40709^0^This banner will rally your guildmates, granting them up to 600 additional mana.<br><br>This banner requires a Banner Material Kit: Aura of Mana and a Banner Dye Kit: Shiny Ornate Dye to create.^0
+40709^6^A clicky to Dreadlands and the next Hub^0
 40710^0^This banner will rally your guildmates, granting them up to 750 additional mana.<br><br>This banner requires a Banner Material Kit: Aura of Mana and a Banner Dye Kit: Shiny Intricate Dye to create.^0
 40711^0^This banner will rally your guildmates, granting them up to 900 additional mana.<br><br>This banner requires a Banner Material Kit: Aura of Mana and a Banner Dye Kit: Shiny Elaborate Dye to create.^0
 40712^0^This banner will rally your guildmates, granting them up to 1050 additional mana.<br><br>This banner requires a Banner Material Kit: Aura of Mana and a Banner Dye Kit: Shiny Elegant Dye to create.^0
