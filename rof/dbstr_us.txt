@@ -73,6 +73,7 @@
 4^26^This stance causes your mercenary to focus primarily on immediate action instead of efficiency.^0
 4^36^Caster DPS^0
 5^5^Antonica^0
+5^6^A song that shrinks your group by 50%^0
 5^7^Ring of Zek^0
 5^8^The High Elves, also known as the Koada'Dal, are regarded as the closest relatives of the original Norrathian Elves created by Tunare, Mother of All. These noble creatures stand tall with ivory skin and gentle features. They are certainly not the most sturdy of races, but make up for that with heart. Throughout the ages, they have stood for freedom and justice, fighting evil with powerful magic and their skills with the blade. <BR><BR>The High Elves are known for their civilized conduct and, as such, are perceived as a race rather full of their own importance, though they are quite benevolent. They expect to be treated with respect and do have an haughty pride about them. As a result, it is difficult to make friends with a High Elf.<BR><BR>The High Elves feel their cousins, the Wood Elves, are to be sought out as loyal servants. This noble race views Humans, Gnomes, and Halflings as worthy of their presence. Dwarves, Barbarians, and Erudites, however, are simply endured. The High Elves expend little effort to help them. The evil races are looked upon with contempt and will be dispatched when opportunity presents itself.^0
 5^9^Shadowknights are unholy warriors who use fear, pain and disease to attack all that is good in the world. Shadowknights are primarily a melee class, able to wear plate armor and wield many kinds of weapons.<BR><BR>Shadowknights are deadly opponents who use evil spells to slow and cripple their enemies. They steal the strength and life from their victims, using this stolen power to strengthen themselves and their allies. When needed, shadowknights use their powerful harm touch ability to greatly damage their opponents.<BR><BR>Shadowknights can feign the appearance of death, fooling enemies into ignoring them. Combined with spells that degrade an enemy's ability to fight, a shadowknight becomes a fearsome foe.<BR><BR>Shadowknights can use their dark powers to adventure solo for a time. The shadowknight's lethal abilities are best used, however, with the support of a larger group. Players who like offensive melee fights but want a variety of ways to inflict harm on their opponents will enjoy playing a shadowknight.^0
@@ -3093,7 +3094,7 @@
 700^6^A simple tune that increases the strength, dexterity, and armor class of group members.^0
 700^11^Parasitic Scavenger^0
 700^12^Parasitic Scavengers^0
-701^6^An ancient anthem that increases the strength and attack rate of your group.^0
+701^6^An ancient anthem that increases the strength and attack rate of your group. Also recourse casts a slow on your target 15%.^0
 701^11^Grendlaen^0
 701^12^Grendlaens^0
 702^6^A crescendo that increases your group's attack speed, as well as increasing their strength and armor class.^0
@@ -3206,7 +3207,7 @@
 733^6^Creates a ring of chaotic flames, causing #1 damage to all nearby creatures.^0
 734^1^Pet Affinity^0
 734^4^This ability makes your summoned pets a valid target for beneficial group spells.^0
-734^6^An ancient war song that speeds your attacks and raises your armor class and strength.^0
+734^6^An ancient war song that speeds your attacks and raises your armor class and strength. Also recourse proc a 15% slow on your target.^0
 735^1^Mastery of the Past^0
 735^4^This ability makes it impossible for you to fizzle spells up to a certain level.  Rank 1 - level 54.  Rank 2 - level 56.  Rank 3 - level 58.  Rank 4 - level 62.  Rank 5 - level 64.  Rank 6 - level 66.  Rank 7 - level 67.  Rank 8 - level 69.  Rank 9 - level 71.  Rank 10 - level 72.  Rank 11 - level 74.  Rank 12 - level 76. Rank 13 - 79. Rank 14 - 80. Rank 15 - 81. Rank 16 - 82. Rank 17 - 83. Rank 18 - 84. Rank 19 - 85. Rank 20 - 86. Rank 21 - 87. Rank 22 - 88. Rank 23 - 89. Rank 24 - 90. Rank 25 - 91. Rank 26 - 92. Rank 27 - 93. Rank 28 - 94. Rank 29 - 95. Rank 30 - 96.^0
 735^6^This song grants your group the ability to see invisible beings, as well as greatly enhancing night vision.^0
@@ -5249,7 +5250,7 @@
 2598^6^Places the mark of the predator upon your group, increasing their attack rating for %z.^0
 2599^6^Focuses your vision, considerably improving your aim with a bow for %z.^0
 2600^6^Covers your skin in a coat of hardened thorns, increasing your armor class, as well as causing damage to anyone who strikes you for %z.^0
-2601^6^A simple tune that adds a magical quality to your group's weapons, allowing them to harm creatures that would otherwise be invulnerable.^0
+2601^6^A simple tune that adds a magical quality to your group's weapons, allowing them to harm creatures that would otherwise be invulnerable. This ALSO adds a storm spark proc for 15 damage.^0
 2602^6^An energetic song that fills your group with energy, eliminating their need for food and water.^0
 2603^6^Focuses the power of your voice, causing all songs that use the singing skill to increase in power.^0
 2604^6^Katta's song increases the dexterity of your group, and gives your group members a chance to lower the dexterity of their opponent.^0
@@ -24330,6 +24331,7 @@
 22487^6^A frigid bolt.^0
 22488^6^A frigid bolt.^0
 22489^6^The chilling breeze of E'ci eases your mind, allowing you to cast your next spell more quickly.^0
+22490^6^Song that decreases disease resists by 1 at lvl 1 to 14 at lvl 13^0
 22492^6^Changes the looks of your pet.^0
 22493^6^Changes the looks of your pet.^0
 22494^6^Changes the looks of your pet.^0
