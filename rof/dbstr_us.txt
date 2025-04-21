@@ -3112,7 +3112,7 @@
 706^6^A terrifying screech that causes nearby enemies to run in terror.^0
 706^11^Teleportation Stand^0
 706^12^Teleportation Stands^0
-707^6^A magical chant that causes damage to an enemy and makes them more vulnerable to magic.^0
+707^6^A magical chant that causes damage to an enemy and procs fist of fire, a 300ish dd.^0
 707^11^Relic Case^0
 707^12^Relic Cases^0
 708^6^A quiet tune that improves your faction standing with all creatures associated with your target.^0
