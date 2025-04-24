@@ -4127,7 +4127,7 @@
 1445^6^Places mystic armor of protection around you, increasing your hit points and armor class for %z.^0
 1446^6^Strikes several creatures around your target with holy might, briefly stunning them.^0
 1447^6^Cloaks your target in an aura of protection, granting them increased hit points and armor class for %z.^0
-1448^6^A light cantata that regenerates the health, mana, and stamina of your entire group.^0
+1448^6^A light cantata that regenerates the health 250 per tic, mana 25 per tic, and stamina of your entire group.^0
 1449^6^An archaic song that increases the attack speed of your group.  This increase is cumulative with most other effects that increase attack speed.^0
 1450^6^This song wraps an aura of protection around your group that absorbs damage .^0
 1451^6^An aura of silence envelops your enemy, causing them to become more susceptible to fire, ice, and magic.^0
@@ -35742,6 +35742,7 @@
 40710^0^This banner will rally your guildmates, granting them up to 750 additional mana.<br><br>This banner requires a Banner Material Kit: Aura of Mana and a Banner Dye Kit: Shiny Intricate Dye to create.^0
 40711^0^This banner will rally your guildmates, granting them up to 900 additional mana.<br><br>This banner requires a Banner Material Kit: Aura of Mana and a Banner Dye Kit: Shiny Elaborate Dye to create.^0
 40712^0^This banner will rally your guildmates, granting them up to 1050 additional mana.<br><br>This banner requires a Banner Material Kit: Aura of Mana and a Banner Dye Kit: Shiny Elegant Dye to create.^0
+40712^6^Reduces damage taken by 25%^0
 40713^0^This banner will rally your guildmates, granting them up to 1200 additional mana.<br><br>This banner requires a Banner Material Kit: Aura of Mana and a Banner Dye Kit: Shiny Extravagant Dye to create.^0
 40714^0^This banner will rally your guildmates, granting them up to 1350 additional mana.<br><br>This banner requires a Banner Material Kit: Aura of Mana and a Banner Dye Kit: Shiny Embroidered Dye to create.^0
 40715^0^This banner will rally your guildmates, granting them up to 1500 additional mana.<br><br>This banner requires a Banner Material Kit: Aura of Mana and a Banner Dye Kit: Shiny Formal Dye to create.^0
@@ -37350,6 +37351,7 @@
 1050888^6^Covers your target with a turtle shell, increasing HP and AC^0
 1050889^6^Wreath your hands in Pikachu's Electricity causing your strikes to sometimes discharges lightning into your enemy.^0
 1050890^6^^0
+1050891^6^Grants you the luck of the Easter Bunny, doubling loot drops for 30 minutes. ^0
 1120101^22^Tier I^0
 1120101^23^Race: Human<br>Type: Damage Caster<br>Confidence: Low<br>Proficiency: Apprentice, Tier I<br><br>Description: The mercenary you will be assigned is an apprentice damage caster of the first tier who exhibits a basic proficiency in the critical spells and skills used in their profession. Typically, this classification consists of mercenaries that have no field experience and possess no formal apprentice-level education, two factors that play a critical role in defining the mercenary's confidence level and frequent tendency to flee during moderately challenging encounters.<br><br>The mercenary's appointment to you will serve as an official introduction to their apprenticeship and the contractual, monetary obligations associated with the mercenary's services are commensurate with their experience. ^0
 1120102^22^Tier II^0
