@@ -35748,9 +35748,10 @@
 40715^0^This banner will rally your guildmates, granting them up to 1500 additional mana.<br><br>This banner requires a Banner Material Kit: Aura of Mana and a Banner Dye Kit: Shiny Formal Dye to create.^0
 40716^0^This banner will rally your guildmates, granting them up to 2 additional mana regeneration.<br><br>This banner requires a Banner Material Kit: Aura of Clarity and a Banner Dye Kit: Shiny Simple Dye to create.^0
 40717^0^This banner will rally your guildmates, granting them up to 4 additional mana regeneration.<br><br>This banner requires a Banner Material Kit: Aura of Clarity and a Banner Dye Kit: Shiny Fine Dye to create.^0
-40717^6^A powerful shield that negates 95% of all incoming attacks^0
+40717^6^A powerful shield that negates 95 percent of all incoming attacks^0
 40718^0^This banner will rally your guildmates, granting them up to 6 additional mana regeneration.<br><br>This banner requires a Banner Material Kit: Aura of Clarity and a Banner Dye Kit: Shiny Fancy Dye to create.^0
 40719^0^This banner will rally your guildmates, granting them up to 8 additional mana regeneration.<br><br>This banner requires a Banner Material Kit: Aura of Clarity and a Banner Dye Kit: Shiny Ornate Dye to create.^0
+40719^6^Causes your target's ears to echo with the barking of Tashan, lowering their everything resistances.^0
 40720^0^This banner will rally your guildmates, granting them up to 10 additional mana regeneration.<br><br>This banner requires a Banner Material Kit: Aura of Clarity and a Banner Dye Kit: Shiny Intricate Dye to create.^0
 40721^0^This banner will rally your guildmates, granting them up to 12 additional mana regeneration.<br><br>This banner requires a Banner Material Kit: Aura of Clarity and a Banner Dye Kit: Shiny Elaborate Dye to create.^0
 40722^0^This banner will rally your guildmates, granting them up to 14 additional mana regeneration.<br><br>This banner requires a Banner Material Kit: Aura of Clarity and a Banner Dye Kit: Shiny Elegant Dye to create.^0
