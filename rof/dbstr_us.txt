@@ -158,7 +158,7 @@
 10^13^Shamans^0
 10^16^10 (Crafted: Common)^0
 10^17^Doubloon^0
-10^18^Doubloons^0
+10^18^Hunter Credit^0
 10^19^Anniversary Quest^0
 10^20^Depths of Darkhollow^0
 10^34^has earned the EverQuest achievement "Level 10" (Become a level 10 Adventurer.)^0
@@ -857,7 +857,7 @@
 129^3^Res^0
 129^4^This ability allows you to provide a resurrection that restores 100 percent experience, all hit points and mana, and causes no adverse resurrection effects.^0
 129^5^Vision^0
-129^6^Surrounds your target in a shield of brambles that cause damage to anything that strikes them for %z.^0
+129^6^Surrounds your target in a shield of spikes that cause damage to anything that strikes them for %z.^0
 129^11^Scorpion^0
 129^12^Scorpions^0
 130^1^Innate Invis to Undead^0
@@ -20810,15 +20810,55 @@
 17997^6^Instant Duration.^0
 17998^6^Instant Duration.^0
 17999^6^Instant Duration.^0
+18000^1^Experienced Rebirther^0
+18000^2^Experienced^0
+18000^3^Rebirther^0
+18000^4^Relying on your wealth of past experience, you forge your way forward faster than ever. This gives you a 25% bonus to experience gained as a passive ability. ^0
 18000^6^A whispering song that calms the aggressive nature of many monsters.  Affects creatures up to level @1.^0
+18001^1^Rebirth Tier 2 - Gelid Nimbus^0
+18001^2^Gelid^0
+18001^3^Nimbus^0
+18001^4^Your strikes now carry a chill. Occasionally deal frost damage to enemies through a passive melee proc.^0
 18001^6^A whispering song that calms the aggressive nature of many monsters.  Affects creatures up to level @1.^0
+18002^1^Rebirth Tier 3 - Pyro Nimbus^0
+18002^2^Pyro^0
+18002^3^Nimbus^0
+18002^4^Your body radiates heat. Passively enhances your damage shield by a flat value.^0
 18002^6^A whispering song that calms the aggressive nature of many monsters.  Affects creatures up to level @1.^0
+18003^1^Rebirth Tier 4 - Lethal Precision^0
+18003^2^Lethal^0
+18003^3^Precision^0
+18003^4^Through your boundless experience, you have learned to maximize all damage dealt. All damage is increased by 20%.^0
 18003^6^A quiet lullaby that causes your target to fall into an enchanted  sleep.  Affects creatures up to level @1.^0
+18004^1^Rebirth Tier 5 - Delay Reduction^0
+18004^2^Quick^0
+18004^3^Blows^0
+18004^4^Through mastery of timing, your weapon delay is passively reduced.^0
 18004^6^A quiet lullaby that causes your target to fall into an enchanted  sleep.  Affects creatures up to level @1.^0
+18005^1^Rebirth Tier 6 - Dragon Illusion^0
+18005^2^Dragon^0
+18005^3^Form^0
+18005^4^You take on the guise of a dragon. Grants a passive bonus to dodge, block, and parry.^0
 18005^6^A quiet lullaby that causes your target to fall into an enchanted  sleep.  Affects creatures up to level @1.^0
+18006^1^Rebirth Tier 7 - ATK Bonus^0
+18006^2^ATK^0
+18006^3^Up^0
+18006^4^You strike with greater force. Passively increases your ATK.^0
 18006^6^Calls forth the blessing of Rodcet Nife to regenerate the health and mana of your group.^0
+18007^1^Rebirth Tier 8 - Vitality Boost^0
+18007^2^HP^0
+18007^3^Boost^0
+18007^4^Your life force grows stronger. Grants a passive percentage increase to your max HP.^0
 18007^6^Calls forth the blessing of Rodcet Nife to regenerate the health and mana of your group.^0
+18008^1^Rebirth Tier 9 - Arcane Reserve^0
+18008^2^Mana^0
+18008^3^Boost^0
+18008^4^Your mana pool deepens. Grants a passive percentage increase to your max mana.^0
 18008^6^Calls forth the blessing of Rodcet Nife to regenerate the health and mana of your group.^0
+18009^1^Rebirth Tier 10 - Lifesteal^0
+18009^2^Life^0
+18009^3^Steal^0
+18009^4^You now steal life with each strike. Grants a passive chance to heal when dealing melee damage.^0
 18009^6^This chilling song increases the effectiveness of cold-based direct damage spells cast by members of your group.  The song improves spells that are at least level #3, up to level #4.^0
 18010^6^This chilling song increases the effectiveness of cold-based direct damage spells cast by members of your group.  The song improves spells that are at least level #3, up to level #4.^0
 18011^6^This chilling song increases the effectiveness of cold-based direct damage spells cast by members of your group.  The song improves spells that are at least level #3, up to level #4.^0
@@ -35647,7 +35687,7 @@
 40631^0^This banner will rally your guildmates, infusing them with up to 150 resistance to poison.<br><br>This banner requires a Banner Material Kit: Aura of Poison and a Banner Dye Kit: Sharp Formal Dye to create.^0
 40632^0^This banner will rally your guildmates, infusing them with up to 15 resistance to disease.<br><br>This banner requires a Banner Material Kit: Aura of Disease and a Banner Dye Kit: Sharp Simple Dye to create.^0
 40633^0^This banner will rally your guildmates, infusing them with up to 30 resistance to disease.<br><br>This banner requires a Banner Material Kit: Aura of Disease and a Banner Dye Kit: Sharp Fine Dye to create.^0
-40633^6^You came to fight, but now you're dancing for your life! Sweat drips, hips dip—you're burning up and Hot to Go! H-O-T-T-O-G-O, better cure fast or you're dead and cold!^0
+40633^6^You came to fight, but now you're dancing for your life! Sweat drips, hips dipâ€”you're burning up and Hot to Go! H-O-T-T-O-G-O, better cure fast or you're dead and cold!^0
 40634^0^This banner will rally your guildmates, infusing them with up to 45 resistance to disease.<br><br>This banner requires a Banner Material Kit: Aura of Disease and a Banner Dye Kit: Sharp Fancy Dye to create.^0
 40635^0^This banner will rally your guildmates, infusing them with up to 60 resistance to disease.<br><br>This banner requires a Banner Material Kit: Aura of Disease and a Banner Dye Kit: Sharp Ornate Dye to create.^0
 40636^0^This banner will rally your guildmates, infusing them with up to 75 resistance to disease.<br><br>This banner requires a Banner Material Kit: Aura of Disease and a Banner Dye Kit: Sharp Intricate Dye to create.^0
@@ -37346,7 +37386,7 @@
 1050881^6^^0
 1050882^6^^0
 1050883^6^^0
-1050884^6^A shield of Veeshan’s fury surrounds you.^0
+1050884^6^A shield of Veeshanâ€™s fury surrounds you.^0
 1050885^6^"Reflects damage to attackers and increases hate."^0
 1050886^6^^0
 1050887^6^^0
