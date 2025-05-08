@@ -20830,10 +20830,10 @@
 18003^3^Precision^0
 18003^4^Through your boundless experience, you have learned to maximize all damage dealt. All damage is increased by 20%.^0
 18003^6^A quiet lullaby that causes your target to fall into an enchanted  sleep.  Affects creatures up to level @1.^0
-18004^1^Rebirth Tier 5 - Delay Reduction^0
-18004^2^Quick^0
-18004^3^Blows^0
-18004^4^Through mastery of timing, your weapon delay is passively reduced.^0
+18004^1^Brutal Critical^0
+18004^2^brutal^0
+18004^3^Brutal Critical^0
+18004^4^Your strikes have a 10% chance to become Brutal Criticals, dealing 5x melee damage. Additionally, your direct-damage spells have a 20% chance to critically surge for 5x damage.^0
 18004^6^A quiet lullaby that causes your target to fall into an enchanted  sleep.  Affects creatures up to level @1.^0
 18005^1^Rebirth Tier 6 - Dragon Illusion^0
 18005^2^Dragon^0
