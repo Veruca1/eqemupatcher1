@@ -1,0 +1,5 @@
+4
+ALA,ALA
+ala,ala
+pma,pma
+tre,southkarana_chr
