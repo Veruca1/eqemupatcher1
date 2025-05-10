@@ -35347,6 +35347,70 @@
 38964^6^Silences target.^0
 38965^6^Grants bonuses to melee speed and attack power.^0
 38966^6^Fire causes you to lose health over time.^0
+39902^1^Cleric Mastery - Divine Retribution^0
+39902^2^Cleric Mastery^0
+39902^3^Divine Retribution^0
+39902^4^Using your Cleric Mastery, you form a defensive ward over your target. This ward increases HP by 20,000, and AC by 1500. ^0
+39903^1^Paladin Mastery - Holy Protection^0
+39903^2^Paladin Mastery^0
+39903^3^Holy Protection^0
+39903^4^You focus your mastery over the Paladin class cleanse yourself and your party. Removes Curses, Diseases, Poisons, Detrimental effects and heals your party.^0
+39904^1^Ranger Mastery - Wrath of the Wild^0
+39904^2^Ranger Mastery^0
+39904^3^Wrath of the Wild^0
+39904^4^Developed by masters of Rangercraft as a deterrent to potential attackers, this ability will shield your group with a large damage barrier of thorns. Strikes against you slowly break down the barrier.^0
+39905^1^Shadowknight Mastery - Shad's Pustules^0
+39905^2^Shadowknight Mastery^0
+39905^3^Shad's Pustules^0
+39905^4^You cover yourself in Shad's diseased pustules. When hit they explode dealing damage to the attacker.^0
+39906^1^Druid Mastery - Wild Entanglement^0
+39906^2^Druid Mastery^0
+39906^3^Wild Entanglement^0
+39906^4^You unleash your mastery of nature, entangling enemies in an area around you. This snares them and deals serious damage. ^0
+39907^1^Monk Mastery - Flurry of A Thousand Fists^0
+39907^2^Monk Mastery^0
+39907^3^Flurry of A Thousand Fists^0
+39907^4^You unleash a flurry of blows, striking all opponents around you with every melee attack for a short period. ^0
+39908^1^Bard Mastery - Greatest Song In The World^0
+39908^2^Bard Mastery^0
+39908^3^Greatest Song^0
+39908^4^You sing a tribute to the greatest song in the world, granting the effects of a dozen songs. Haste, Overhaste, Stacking Overhaste, Strength, AC, Damage Shield, Minimum Damage Modifier, Critical Hit Damage, Critical Hit Chance, Chance to Hit, Base Damage are all increased as well as a small heal each tick. ^0
+39909^1^Rogue Mastery - Loaded Dice^0
+39909^2^Rogue Mastery^0
+39909^3^Loaded Dice^0
+39909^4^You throw some loaded dice, the dice explode dealing between 1 and 50000 damage. ^0
+39910^1^Shaman Mastery - Ashrem's Corrosive Mist^0
+39910^2^Shaman Mastery^0
+39910^3^Ashrem's Corrosive Mist.^0
+39910^4^You spread Ashrem's corrosive mist in the area, melting the bodies of those around you. This slows, silences, inhibits special attacks and damages your enemies. ^0
+39911^1^Necromancer Mastery - Plague Burst^0
+39911^2^Necromancer Mastery^0
+39911^3^Plague Burst^0
+39911^4^You use your mastery to unleash a burst of plague energy around you, infecting all enemies in a large radius. This infection causes serious damage over time.^0
+39912^1^Wizard Mastery - You Shall Not Pass^0
+39912^2^Wizard Mastery^0
+39912^3^You Shall Not Pass^0
+39912^4^You draw upon your mastery of arcane magics, increasing your chance to score a critical hit by 100%, critical damage by 200% and giving yourself a protective ward for 200000 damage for a short time.^0
+39913^1^Magician Mastery - Ezra's Requip^0
+39913^2^Magician Mastery^0
+39913^3^Ezra's Requip^0
+39913^4^You summon a bag of armor for your pet, this armor will drastically increase its fighting capabilities.^0
+39914^1^Enchanter Mastery - Nightmare Terror^0
+39914^2^Enchanter Mastery^0
+39914^3^Nightmare Terror^0
+39914^4^You use your enchanter mastery inspire the nightmares of your enemies. Your group members gain the form of nightmares, a lifetap proc, attack bonus, double and triple attack bonus, and a chance to do an assassinate attack. ^0
+39915^1^Beastlord Mastery - Companion of Darr^0
+39915^2^Beastlord Mastery^0
+39915^3^Beastlord^0
+39915^4^You summon the companion of Darr, and incredibly powerful warder pet. This pet has heavily increased stats. ^0
+39916^1^Berserker Mastery - Rage Volley^0
+39916^2^Berserker Mastery^0
+39916^3^Volley^0
+39916^4^Tap into your mastery and throw a huge volley of axes in a cone.^0
+39951^1^Warrior Mastery Defensive Stance^0
+39951^2^Warrior Mastery^0
+39951^3^Defensive Stance^0
+39951^4^Using your Warrior Mastery you adopt a Defensive Stance that causes you to take less damage, but also lowers your damage output.^0
 40300^0^This banner will rally your guildmates, causing their destructive abilities up to level 20 to be up to 5 percent more potent.<br><br>This banner requires a Banner Material Kit: Focus of Anger and a Banner Dye Kit: Dull Simple Dye to create.^0
 40301^0^This banner will rally your guildmates, causing their destructive abilities up to level 20 to be up to 10 percent more potent.<br><br>This banner requires a Banner Material Kit: Focus of Anger and a Banner Dye Kit: Sharp Simple Dye to create.^0
 40302^0^This banner will rally your guildmates, causing their destructive abilities up to level 20 to be up to 15 percent more potent.<br><br>This banner requires a Banner Material Kit: Focus of Anger and a Banner Dye Kit: Shiny Simple Dye to create.^0
@@ -37395,6 +37459,19 @@
 1050890^6^^0
 1050891^6^Grants you the luck of the Easter Bunny, doubling loot drops for 30 minutes. ^0
 1050892^6^You are bolstered by the essence of an Enduring Spirit, increasing your maximum HP by 10,000, Mana by 10,000, and Endurance by 5,000, this stacks with most other effects.^0
+1100000^6^Puts an infection of oozing warts on a target, which bursts on enemies infecting them with the Shad as a defensive proc.^0
+1100001^6^You slam a whole Case of Whoopass into your enemies causing @1 damage (Its the good stuff, so they dont mind as much)^0
+1100002^6^Focus on the mastery of your chosen class, increasing your attack rating, strength, and armor class.  When struck in melee there is a chance heal your group.^0
+1100003^6^The song of the warlord inspires your companions, increasing attack speed to #1 percent, strength by up to @2, attack rating by up to @3, damaging attackers by up to @4, and adding damage to their attacks.^0
+1100004^6^Your mastery over nature allows you to command it to swarm your enemies, slowing and damaging them.^0
+1100005^6^You channel your inner mastery, unleashing a thousand blows. Your attack strike all opponents near you for a short time.^0
+1100006^6^You trigger an explosion of poison, infecting all enemies in an area around you, this infection spreads to other nearby enemies.^0
+1100007^6^Increases crit chance for the next 16 spells by 100 percent, Crit Damage by 200% while protecting you from up to 200,000 incoming spell and melee damage. This power comes at a cost increasing spell mana cost by 100%^0
+1100008^6^Summons forth the elements in the form of weapons for summoned creatures.^0
+1100009^6^Beastlord Mastery - Companion of Darr^0
+1100010^6^Fills your target with Divine Health, granting them increased hit points and armor class for %z.^0
+1100011^6^Developed by masters of Rangercraft as a deterrent to potential attackers, this ability will shield your group with a large damage barrier of thorns. Strikes against you slowly break down the barrier.^0
+1100012^6^Transforms your party into a Terrible Nightmare, a lifetap, Double Attack chance, and a chance to do an assassinate attack.^0
 1120101^22^Tier I^0
 1120101^23^Race: Human<br>Type: Damage Caster<br>Confidence: Low<br>Proficiency: Apprentice, Tier I<br><br>Description: The mercenary you will be assigned is an apprentice damage caster of the first tier who exhibits a basic proficiency in the critical spells and skills used in their profession. Typically, this classification consists of mercenaries that have no field experience and possess no formal apprentice-level education, two factors that play a critical role in defining the mercenary's confidence level and frequent tendency to flee during moderately challenging encounters.<br><br>The mercenary's appointment to you will serve as an official introduction to their apprenticeship and the contractual, monetary obligations associated with the mercenary's services are commensurate with their experience. ^0
 1120102^22^Tier II^0
