@@ -1,0 +1,7 @@
+6
+ALA,ALA
+ala,ala
+fgt,fgt
+gbl,gbl
+dvs,dvs
+flg,flg
