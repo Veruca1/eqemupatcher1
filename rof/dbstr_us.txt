@@ -10933,6 +10933,7 @@
 8484^6^Gives your skin a sickly hue that will sometimes harden to absorb the impact of attacks made against you.^0
 8486^6^Conjures the power of your voice into arcane orbs of power that will fuel the destructive power of group members who use direct damage spells.^0
 8488^6^Increases your companions' attack speed and spell damage, as long as they stay inside the area of the aura.^0
+8489^6^30 second root with a 3500 dot per tic^0
 8490^6^Calls down fire to consume your target, causing #1 damage.^0
 8491^6^Entangles your target's feet in the vines of the Elddar, preventing them from moving up for up to %z.  This spell is very difficult to resist.^0
 8493^6^Fills your group with holy energy which will continually heal their wounds for a short period of time.^0
