@@ -13,6 +13,7 @@
 1^13^Warriors^0
 1^15^With the exception of a few seedy characters, Qeynos is a fairly safe place for Humans on the west coast of the continent of Antonica.  While many Humans live in Qeynos, they can be seen wandering all over Norrath, particularly in the port city on the eastern coast, called Freeport.^0
 1^16^1 (General: Single Stat)^0
+1^18^Donator Credit^0
 1^19^Quest Only^0
 1^20^Ruins of Kunark^0
 1^24^Passive^0
@@ -20591,9 +20592,9 @@
 17777^6^Unstable and growing mass pulls on those around it will terrible force.^0
 17778^6^Instant Duration.^0
 17779^6^Instant Duration.^0
-17780^6^Instant Duration.^0
-17781^6^Instant Duration.^0
-17782^6^Instant Duration.^0
+17780^6^Balances the health of the party and heals all for 150k health^0
+17781^6^Balances the health of the party and heals all for 200k health^0
+17782^6^Balances the health of the party and heals all for 25k health^0
 17783^6^Instant Duration.^0
 17784^6^Instant Duration.^0
 17785^6^Instant Duration.^0
@@ -35869,6 +35870,7 @@
 40729^0^This banner will rally your guildmates, granting them up to 600 additional endurance.<br><br>This banner requires a Banner Material Kit: Aura of Endurance and a Banner Dye Kit: Shiny Ornate Dye to create.^0
 40730^0^This banner will rally your guildmates, granting them up to 750 additional endurance.<br><br>This banner requires a Banner Material Kit: Aura of Endurance and a Banner Dye Kit: Shiny Intricate Dye to create.^0
 40731^0^This banner will rally your guildmates, granting them up to 900 additional endurance.<br><br>This banner requires a Banner Material Kit: Aura of Endurance and a Banner Dye Kit: Shiny Elaborate Dye to create.^0
+40731^6^Decrease current HP by 20k, root, silence, and decrease dis counter by 18 for 1 tic^0
 40732^0^This banner will rally your guildmates, granting them up to 1050 additional endurance.<br><br>This banner requires a Banner Material Kit: Aura of Endurance and a Banner Dye Kit: Shiny Elegant Dye to create.^0
 40733^0^This banner will rally your guildmates, granting them up to 1200 additional endurance.<br><br>This banner requires a Banner Material Kit: Aura of Endurance and a Banner Dye Kit: Shiny Extravagant Dye to create.^0
 40733^6^Grants you the custom title: Scoundrel of the Oathbreakers^0
