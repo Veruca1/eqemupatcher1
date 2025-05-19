@@ -1,4 +1,6 @@
-4
+6
+PSC,PSC
+psc,psc
 ALA,ALA
 ala,ala
 pma,pma
