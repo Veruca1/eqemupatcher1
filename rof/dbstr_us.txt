@@ -11467,7 +11467,7 @@
 9571^6^Increases the damage of chromatic-based spells by up to $1 percent.  This bonus will decay on spells over level #2.^0
 9572^6^Increases the damage of chromatic-based spells by up to $1 percent.  This bonus will decay on spells over level #2.^0
 9573^6^Increases the damage of chromatic-based spells by up to $1 percent.  This bonus will decay on spells over level #2.^0
-9574^6^Increases the damage of chromatic-based spells by up to $1 percent.  This bonus will decay on spells over level #2.^0
+9574^6^Increases spell damage by 45 to 65 percent, exclude caster ae pbae target ae limit resist cold magic fire, and excludes combat skills^0
 9575^6^Increases the duration of beneficial spells by #1 percent.  This bonus will decay on spells over level #2.^0
 9576^6^Increases the duration of detrimental spells by #1 percent.  This bonus will decay on spells over level #2.^0
 9577^6^Increases the duration of beneficial spells by #1 percent.  This bonus will decay on spells over level #2.^0
