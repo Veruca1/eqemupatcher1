@@ -4793,7 +4793,7 @@
 1975^6^Causes thorns to grow from your body, damaging any creature that attacks you.^0
 1976^6^Grants your group a blessing, increasing hit points by #1.^0
 1977^6^Causes holy light to wash over your target, causing #1 damage to undead creatures every 6 seconds for up to %z.^0
-1978^6^Chokes your target with mist, lowering attack speed and causing #4 damage every 6 seconds for up to %z.^0
+1978^6^Chokes your target with mist, decreasing attack speed by 65% and lowering HP by 3500 per tic for 10 tics 1 minute^0
 1979^6^Vines of kelp entwine about your target, decreasing movement for up to %z.^0
 1980^6^Causes a fellspine to dig into your target's flesh, decreasing their hit points by #3 and lowering hate for up to %z.^0
 1981^6^Focuses mana into a throwing hammer.^0
