@@ -1,5 +1,7 @@
-4
+6
 ALA,ALA
 ala,ala
+PSC,PSC
+psc,psc
 SEY,SEY
 sey,sey
