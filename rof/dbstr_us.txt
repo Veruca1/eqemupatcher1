@@ -35486,6 +35486,7 @@
 40370^0^This banner will rally your guildmates, increasing the efficiency of their abilites up to level 75 by up to 6 percent.<br><br>This banner requires a Banner Material Kit: Focus of Conservation and a Banner Dye Kit: Shiny Elaborate Dye to create.^0
 40371^0^This banner will rally your guildmates, increasing the efficiency of their abilites up to level 75 by up to 8 percent.<br><br>This banner requires a Banner Material Kit: Focus of Conservation and a Banner Dye Kit: Vibrant Elaborate Dye to create.^0
 40372^0^This banner will rally your guildmates, increasing the efficiency of their beneficial abilites up to level 20 by up to 5 percent.<br><br>This banner requires a Banner Material Kit: Focus of Benefit Conservation and a Banner Dye Kit: Dull Simple Dye to create.^0
+40372^6^This spell does what it says, blinds, and roots your opponent with no resisting or interruptions for 1 minute 30 seconds.^0
 40373^0^This banner will rally your guildmates, increasing the efficiency of their beneficial abilites up to level 20 by up to 10 percent.<br><br>This banner requires a Banner Material Kit: Focus of Benefit Conservation and a Banner Dye Kit: Sharp Simple Dye to create.^0
 40374^0^This banner will rally your guildmates, increasing the efficiency of their beneficial abilites up to level 20 by up to 15 percent.<br><br>This banner requires a Banner Material Kit: Focus of Benefit Conservation and a Banner Dye Kit: Shiny Simple Dye to create.^0
 40375^0^This banner will rally your guildmates, increasing the efficiency of their beneficial abilites up to level 20 by up to 20 percent.<br><br>This banner requires a Banner Material Kit: Focus of Benefit Conservation and a Banner Dye Kit: Vibrant Simple Dye to create.^0
@@ -37475,6 +37476,7 @@
 1100010^6^Fills your target with Divine Health, granting them increased hit points and armor class for %z.^0
 1100011^6^Developed by masters of Rangercraft as a deterrent to potential attackers, this ability will shield your group with a large damage barrier of thorns. Strikes against you slowly break down the barrier.^0
 1100012^6^Transforms your party into a Terrible Nightmare, a lifetap, Double Attack chance, and a chance to do an assassinate attack.^0
+1100013^6^Makes you feel incredibly lucky,  doubling loot drops for 10 minutes. ^0
 1120101^22^Tier I^0
 1120101^23^Race: Human<br>Type: Damage Caster<br>Confidence: Low<br>Proficiency: Apprentice, Tier I<br><br>Description: The mercenary you will be assigned is an apprentice damage caster of the first tier who exhibits a basic proficiency in the critical spells and skills used in their profession. Typically, this classification consists of mercenaries that have no field experience and possess no formal apprentice-level education, two factors that play a critical role in defining the mercenary's confidence level and frequent tendency to flee during moderately challenging encounters.<br><br>The mercenary's appointment to you will serve as an official introduction to their apprenticeship and the contractual, monetary obligations associated with the mercenary's services are commensurate with their experience. ^0
 1120102^22^Tier II^0
