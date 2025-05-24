@@ -8930,7 +8930,7 @@
 5859^6^^0
 5860^6^^0
 5861^6^^0
-5862^6^^0
+5862^6^Dispels Detrimental spells 95% chance and decreases counters on curse, poison, disease by 31 each^0
 5863^6^^0
 5864^6^^0
 5865^6^^0
