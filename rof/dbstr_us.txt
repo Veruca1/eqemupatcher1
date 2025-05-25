@@ -37477,6 +37477,10 @@
 1100011^6^Developed by masters of Rangercraft as a deterrent to potential attackers, this ability will shield your group with a large damage barrier of thorns. Strikes against you slowly break down the barrier.^0
 1100012^6^Transforms your party into a Terrible Nightmare, a lifetap, Double Attack chance, and a chance to do an assassinate attack.^0
 1100013^6^Makes you feel incredibly lucky,  doubling loot drops for 10 minutes. ^0
+1100014^6^Aggro's all mobs in zone, they will run at you from wherever they are in zone. You can also target this clicky on your bots or another player. WARNING: Mass mobs killing may cause you to crash.^0
+1100015^6^Aggro's all mobs in zone, the entire zone will be instantly summoned in front of you. You can also target this clicky on your bots or another player. WARNING: Mass mobs killing may cause you to crash.(Higher chance than regular zone aggro for issues as its a ton going on at once)^0
+1100016^6^Summons Dizzy the DZer to your location^0
+1100017^6^Right click the scroll to learn the Secondary Recall AA - Appears in Class Tab. Hail Captain Caved Man(Donator Vendor) to be given the Stone of Marking.^0
 1120101^22^Tier I^0
 1120101^23^Race: Human<br>Type: Damage Caster<br>Confidence: Low<br>Proficiency: Apprentice, Tier I<br><br>Description: The mercenary you will be assigned is an apprentice damage caster of the first tier who exhibits a basic proficiency in the critical spells and skills used in their profession. Typically, this classification consists of mercenaries that have no field experience and possess no formal apprentice-level education, two factors that play a critical role in defining the mercenary's confidence level and frequent tendency to flee during moderately challenging encounters.<br><br>The mercenary's appointment to you will serve as an official introduction to their apprenticeship and the contractual, monetary obligations associated with the mercenary's services are commensurate with their experience. ^0
 1120102^22^Tier II^0
