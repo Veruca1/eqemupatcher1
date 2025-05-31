@@ -1,7 +1,10 @@
-6
+9
 PSC,PSC
 psc,psc
 ALA,ALA
 ala,ala
 mmm,mmm_chr
 btn,btn
+gfc,gfc
+qcf,qeynos_chr
+hnm,hnm
