@@ -354,6 +354,7 @@
 30^11^Gasbag^0
 30^12^Gasbags^0
 30^16^30 (Epic 2.5)^0
+30^18^Donator Credit^0
 30^20^It's a Mayong Mayong Mayong Mayong World^0
 30^34^has earned the EverQuest achievement "Level 30" (Become a level 30 Adventurer.)^0
 30^35^has earned the EverQuest achievement "Level 30" (Become a level 30 Adventurer.)^0
@@ -35888,6 +35889,7 @@
 40743^0^This banner will rally your guildmates, granting them up to 16 additional endurance regeneration.<br><br>This banner requires a Banner Material Kit: Aura of Vigor and a Banner Dye Kit: Shiny Extravagant Dye to create.^0
 40744^0^This banner will rally your guildmates, granting them up to 18 additional endurance regeneration.<br><br>This banner requires a Banner Material Kit: Aura of Vigor and a Banner Dye Kit: Shiny Embroidered Dye to create.^0
 40745^0^This banner will rally your guildmates, granting them up to 20 additional endurance regeneration.<br><br>This banner requires a Banner Material Kit: Aura of Vigor and a Banner Dye Kit: Shiny Formal Dye to create.^0
+40745^6^Quells the call for help^0
 40746^0^This banner will rally your guildmates, granting them up to 3 percent haste.<br><br>This banner requires a Banner Material Kit: Aura of Celerity and a Banner Dye Kit: Shiny Simple Dye to create.^0
 40747^0^This banner will rally your guildmates, granting them up to 6 percent haste.<br><br>This banner requires a Banner Material Kit: Aura of Celerity and a Banner Dye Kit: Shiny Fine Dye to create.^0
 40748^0^This banner will rally your guildmates, granting them up to 9 percent haste.<br><br>This banner requires a Banner Material Kit: Aura of Celerity and a Banner Dye Kit: Shiny Fancy Dye to create.^0
@@ -37481,6 +37483,8 @@
 1100015^6^Aggro's all mobs in zone, the entire zone will be instantly summoned in front of you. You can also target this clicky on your bots or another player. WARNING: Mass mobs killing may cause you to crash.(Higher chance than regular zone aggro for issues as its a ton going on at once)^0
 1100016^6^Summons Dizzy the DZer to your location^0
 1100017^6^Right click the scroll to learn the Secondary Recall AA - Appears in Class Tab. Hail Captain Caved Man(Donator Vendor) to be given the Stone of Marking.^0
+1100018^6^Click this item to be sent by parcel the 3 stones to go to the special Easter Event Zones. One for each difficulty.^0
+1100019^6^You cant feel some of the incoming damage, reduces incoming damage per hit by 500. ^0
 1120101^22^Tier I^0
 1120101^23^Race: Human<br>Type: Damage Caster<br>Confidence: Low<br>Proficiency: Apprentice, Tier I<br><br>Description: The mercenary you will be assigned is an apprentice damage caster of the first tier who exhibits a basic proficiency in the critical spells and skills used in their profession. Typically, this classification consists of mercenaries that have no field experience and possess no formal apprentice-level education, two factors that play a critical role in defining the mercenary's confidence level and frequent tendency to flee during moderately challenging encounters.<br><br>The mercenary's appointment to you will serve as an official introduction to their apprenticeship and the contractual, monetary obligations associated with the mercenary's services are commensurate with their experience. ^0
 1120102^22^Tier II^0
