@@ -37465,6 +37465,7 @@
 1050890^6^^0
 1050891^6^Grants you the luck of the Easter Bunny, doubling loot drops for 30 minutes. ^0
 1050892^6^You are bolstered by the essence of an Enduring Spirit, increasing your maximum HP by 10,000, Mana by 10,000, and Endurance by 5,000, this stacks with most other effects.^0
+1050970^6^Right click to obtain a donator credit once every hour^0
 1100000^6^Puts an infection of oozing warts on a target, which bursts on enemies infecting them with the Shad as a defensive proc.^0
 1100001^6^You slam a whole Case of Whoopass into your enemies causing @1 damage (Its the good stuff, so they dont mind as much)^0
 1100002^6^Focus on the mastery of your chosen class, increasing your attack rating, strength, and armor class.  When struck in melee there is a chance heal your group.^0
