@@ -35895,6 +35895,7 @@
 40747^0^This banner will rally your guildmates, granting them up to 6 percent haste.<br><br>This banner requires a Banner Material Kit: Aura of Celerity and a Banner Dye Kit: Shiny Fine Dye to create.^0
 40748^0^This banner will rally your guildmates, granting them up to 9 percent haste.<br><br>This banner requires a Banner Material Kit: Aura of Celerity and a Banner Dye Kit: Shiny Fancy Dye to create.^0
 40749^0^This banner will rally your guildmates, granting them up to 12 percent haste.<br><br>This banner requires a Banner Material Kit: Aura of Celerity and a Banner Dye Kit: Shiny Ornate Dye to create.^0
+40749^6^Inflicts 140K damage to all nearby enemies within a 30 radius. This has a 30 second cooldown and only works in Luclin zones^0
 40750^0^This banner will rally your guildmates, granting them up to 15 percent haste.<br><br>This banner requires a Banner Material Kit: Aura of Celerity and a Banner Dye Kit: Shiny Intricate Dye to create.^0
 40751^0^This banner will rally your guildmates, granting them up to 18 percent haste.<br><br>This banner requires a Banner Material Kit: Aura of Celerity and a Banner Dye Kit: Shiny Elaborate Dye to create.^0
 40752^0^This banner will rally your guildmates, granting them up to 21 percent haste.<br><br>This banner requires a Banner Material Kit: Aura of Celerity and a Banner Dye Kit: Shiny Elegant Dye to create.^0
