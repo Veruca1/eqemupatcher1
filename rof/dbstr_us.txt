@@ -173,7 +173,7 @@
 11^13^Necromancers^0
 11^16^11 (Crafted: Group)^0
 11^17^Orum^0
-11^18^Orux^0
+11^18^The Coin of Fate^0
 11^20^Prophecy of Ro^0
 12^1^Innate Agility^0
 12^4^This ability raises your base Agility by 2 points for each ability level.^0
@@ -23723,7 +23723,7 @@
 21548^6^Surrounds your body in a protective aura, absorbing a portion of incoming melee damage.^0
 21549^6^Surrounds your body in a protective aura, absorbing a portion of incoming spell damage.^0
 21550^6^Surrounds your body in a protective aura, absorbing a portion of incoming spell damage.^0
-21551^6^Has a chance to strike your opponent with a fire attack each time you cast a damaging spell.^0
+21551^6^A buff that can proc on spellcast Glacial Claw Rk III a damage spell that does 37210 base damage^0
 21556^6^Has a chance to strike your opponent with a frost attack each time you cast a damaging spell.^0
 21561^6^Has a chance to strike your opponent with a lightning attack each time you cast a damaging spell.^0
 21566^6^Has a chance to strike your opponent with a poisonous attack each time you cast a damaging spell.^0
@@ -37488,6 +37488,7 @@
 1100017^6^Right click the scroll to learn the Secondary Recall AA - Appears in Class Tab. Hail Captain Caved Man(Donator Vendor) to be given the Stone of Marking.^0
 1100018^6^Click this item to be sent by parcel the 3 stones to go to the special Easter Event Zones. One for each difficulty.^0
 1100019^6^You cant feel some of the incoming damage, reduces incoming damage per hit by 500. ^0
+1100020^6^^0
 1120101^22^Tier I^0
 1120101^23^Race: Human<br>Type: Damage Caster<br>Confidence: Low<br>Proficiency: Apprentice, Tier I<br><br>Description: The mercenary you will be assigned is an apprentice damage caster of the first tier who exhibits a basic proficiency in the critical spells and skills used in their profession. Typically, this classification consists of mercenaries that have no field experience and possess no formal apprentice-level education, two factors that play a critical role in defining the mercenary's confidence level and frequent tendency to flee during moderately challenging encounters.<br><br>The mercenary's appointment to you will serve as an official introduction to their apprenticeship and the contractual, monetary obligations associated with the mercenary's services are commensurate with their experience. ^0
 1120102^22^Tier II^0
