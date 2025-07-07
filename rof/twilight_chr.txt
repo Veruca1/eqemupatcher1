@@ -1,0 +1,7 @@
+5
+cls,cls
+ala,ala
+ALA,ALA
+psc,psc
+PSC,PSC
+
