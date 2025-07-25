@@ -8,7 +8,7 @@ P -145.0000, 157.0000, -19.0000,  127, 64, 0,  2,  Revenant_Sthzzzizt_(Hunter)
 P -390.0000, -113.0000, -17.0000,  127, 64, 0,  2,  Revenant_Sthzzzizt_(Hunter)
 P 1291.0000, -1274.8750, -21.9375,  127, 64, 0,  2,  Heriohant_Grazan_(Hunter)
 P 1110.3892, -1063.6550, -21.0112,  127, 64, 0,  2,  Heirophant_Grazan_(Hunter)
-P -1226.0000, 1025.0000, -10.0000,  127, 64, 0,  2,  Crusader_Kezzal_(Hunter)
+P -1103.0913, 911.3044, -31.1341,  0, 0, 0,  3,  Crusader_Kezzal_Ring
 P 1157.0000, -1225.0000, -12.0000,  127, 64, 0,  2,  Boulder_(Hunter)
 P 575.0000, -1471.0000, 121.0000,  127, 64, 0,  2,  Boulder_(Hunter)
 P 150.6781, 10.2030, -17.8125,  127, 64, 0,  2,  An_Ancient_Shissar_Servitor_(Hunter)
