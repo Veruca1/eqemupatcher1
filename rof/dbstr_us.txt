@@ -35929,6 +35929,7 @@
 40776^0^This banner will rally your guildmates, granting them faerune.<br><br>This banner requires a Banner Material Kit: Aura of Faerune and a Banner Dye Kit: Shiny Simple Dye to create.^0
 40777^0^This banner will rally your guildmates, granting them dead man floating.<br><br>This banner requires a Banner Material Kit: Aura of the Dead and a Banner Dye Kit: Shiny Simple Dye to create.^0
 40778^0^This banner is the basic banner and will allow you and your guildmates to gather together quickly.^0
+40778^6^Your inner darkness has taken shape, sapping your resolve. While afflicted, foes may sense your shadowed essence, drawing them into a deeper malice.^0
 40795^6^Grants you the custom title: The Voidwalker^0
 40796^6^Grants you the custom title: The Grove Guardian^0
 40800^0^This banner will rally your guildmates, causing their destructive abilities up to level 80 to be up to 5 percent more potent.<br><br>This banner requires a Banner Material Kit: Focus of Anger and a Banner Dye Kit: Dull Elegant Dye to create.^0
