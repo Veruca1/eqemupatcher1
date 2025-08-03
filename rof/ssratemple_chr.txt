@@ -1,4 +1,4 @@
-7
+9
 T05,T05
 pma,pma
 myg,myg
@@ -6,3 +6,5 @@ ala,ala
 ALA,ALA
 psc,psc
 PSC,PSC
+luc,luc
+LUC,LUC
