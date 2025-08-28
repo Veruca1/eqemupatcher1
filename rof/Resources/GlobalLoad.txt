@@ -75,6 +75,7 @@
 2,0,TFFFE,wallet39.eqg,Loading Character Equipment Files
 2,0,TFFFE,wallet40.eqg,Loading Character Equipment Files
 2,0,TFFFE,wallet41.eqg,Loading Character Equipment Files
+3,0,TFFFC,ALA.eqg,Loading Characters
 3,0,TFFFC,gbn.eqg,Loading Characters
 3,0,TFFFC,wwf.eqg,Loading Characters
 3,0,TFFFC,kbd.eqg,Loading Characters
@@ -492,6 +493,7 @@
 1,0,TFFF,wrf_chr,Loading Characters
 1,0,TFFF,wuf_chr,Loading Characters
 1,0,TFFF,wyv_chr,Loading Characters
+3,0,TFFFC,ALA.eqg,Loading Characters
 3,0,TFFFC,tgo.eqg,Loading Characters
 3,0,TFFFC,clv.eqg,Loading Characters
 3,0,TFFFC,fra.eqg,Loading Characters
