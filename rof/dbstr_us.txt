@@ -37496,6 +37496,7 @@
 1100020^6^^0
 1100021^6^Grants you the blessings of the eclipse. You gain the following buffs, Hand of Conviction, Brells Brawny Bulwark, Circle of Fireskin, Talisman of Persistence, Talisman of the Stoic One, Talisman of Foresight, Voice of Intuition, Strength of the Gladewalker, Khura's Focusing, Holy Battle Hymn V, Boon of the Avenging Angel IV, Panther. ^0
 1100022^6^You slam the Hammer of the Maiden into the ground, sending shockwaves through the earth doing 500k damage to enemies within a 30 radius!^0
+1100023^6^Repops the current zone you are in.^0
 1120101^22^Tier I^0
 1120101^23^Race: Human<br>Type: Damage Caster<br>Confidence: Low<br>Proficiency: Apprentice, Tier I<br><br>Description: The mercenary you will be assigned is an apprentice damage caster of the first tier who exhibits a basic proficiency in the critical spells and skills used in their profession. Typically, this classification consists of mercenaries that have no field experience and possess no formal apprentice-level education, two factors that play a critical role in defining the mercenary's confidence level and frequent tendency to flee during moderately challenging encounters.<br><br>The mercenary's appointment to you will serve as an official introduction to their apprenticeship and the contractual, monetary obligations associated with the mercenary's services are commensurate with their experience. ^0
 1120102^22^Tier II^0
