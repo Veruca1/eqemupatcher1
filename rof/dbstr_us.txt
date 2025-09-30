@@ -186,7 +186,7 @@
 12^13^Wizards^0
 12^16^12 (Crafted: Raid)^0
 12^17^Phosphene^0
-12^18^Phosphenes^0
+12^18^Silver Shamrock^0
 12^20^The Serpents Spine^0
 13^1^Complete Heal^0
 13^2^Complete^0
