@@ -1,4 +1,4 @@
-16
+18
 dke,dke
 btn,btn
 myg,myg
@@ -9,9 +9,11 @@ dvm,mistmoore_chr
 dru,fearplane_chr
 vst,karnor_chr
 qcf,qeynos_chr
-zeb,potimeb_chr2
 zeb,zeb
-ZEB,ZEB
-ZEB,potimeb_chr2
+zeb,potimeb_chr2
 onm,onm
 cdm,cdm
+qcm,qeynos_chr
+cst,cst
+sef,sef_chr
+gnd,gnd
