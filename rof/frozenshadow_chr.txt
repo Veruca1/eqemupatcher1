@@ -1,4 +1,5 @@
-18
+19
+lgr,lgr_chr
 dke,dke
 btn,btn
 myg,myg
