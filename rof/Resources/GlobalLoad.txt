@@ -1,3 +1,7 @@
+1,0,TFFF,griegsend_chr,Loading Characters
+1,0,TFFF,sharvahl_chr,Loading Characters
+1,0,TFFF,sharvahl_chr2,Loading Characters
+1,0,TFFF,acrylia_chr,Loading Characters
 1,0,TFFF,poinnovation_chr,Loading Characters
 1,1,TFFFE,Equipment-01.eqg,Loading Character Equipment Files
 1,1,TFFFC,GlobalFroglok_chr,Loading Froglok
