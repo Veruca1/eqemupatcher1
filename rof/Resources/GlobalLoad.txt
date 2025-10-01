@@ -38,6 +38,7 @@
 2,0,TFFFE,tssequip.eqg,Loading TSS Character Equipment Files
 2,0,TFFFE,tbsequip.eqg,Loading TBS Character Equipment Files
 2,0,TFFFE,sofequip.eqg,Loading SOF Character Equipment Files
+3,0,TFFFC,bgf.eqg,Loading Characters
 3,0,TFFFC,dsf.eqg,Loading Characters
 3,0,TFFFC,rpt.eqg,Loading Characters
 3,0,TFFFC,ALA.eqg,Loading Characters
