@@ -2,7 +2,6 @@
 1,0,TFFF,brv_chr,Loading Characters
 1,0,TFFF,yet_chr,Loading Characters
 1,0,TFFF,gia_chr,Loading Characters
-1,0,TFFF,efr_chr,Loading Characters
 1,0,TFFF,tgl_chr,Loading Characters
 1,0,TFFF,gr1_chr,Loading Characters
 1,0,TFFF,npt_chr,Loading Characters
