@@ -1,4 +1,5 @@
 1,0,TFFF,fmp_chr,Loading Characters
+1,0,TFFF,brv_chr,Loading Characters
 1,0,TFFF,griegsend_chr,Loading Characters
 1,0,TFFF,sharvahl_chr,Loading Characters
 1,0,TFFF,sharvahl_chr2,Loading Characters
@@ -30,7 +31,6 @@
 2,0,TFFFE,sofequip.eqg,Loading SOF Character Equipment Files
 3,0,TFFFC,ALA.eqg,Loading Characters
 3,0,TFFFC,crs.eqg,Loading Characters
-3,0,TFFFC,brv.eqg,Loading Characters
 3,0,TFFFC,mwr.eqg,Loading Characters
 3,0,TFFFC,dbx.eqg,Loading Characters
 3,0,TFFFC,rob.eqg,Loading Characters
