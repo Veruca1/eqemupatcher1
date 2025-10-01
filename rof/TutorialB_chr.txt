@@ -1,4 +1,4 @@
-17
+18
 skt.skt
 skt,skt_chr
 rtn,rtn
@@ -16,3 +16,4 @@ soltemple_chr
 bon,bon_chr
 bgm,oasis_chr
 gfo,gfo
+efr,soltemple_chr
