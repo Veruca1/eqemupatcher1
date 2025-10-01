@@ -5,6 +5,7 @@
 1,0,TFFF,tgl_chr,Loading Characters
 1,0,TFFF,gr1_chr,Loading Characters
 1,0,TFFF,iwh_chr,Loading Characters
+1,0,TFFF,stu_chr,Loading Characters
 1,0,TFFF,ponightmare_chr,Loading Characters
 1,0,TFFF,codecay_chr,Loading Characters
 1,0,TFFF,kithicor_chr,Loading Characters
@@ -37,6 +38,8 @@
 2,0,TFFFE,tssequip.eqg,Loading TSS Character Equipment Files
 2,0,TFFFE,tbsequip.eqg,Loading TBS Character Equipment Files
 2,0,TFFFE,sofequip.eqg,Loading SOF Character Equipment Files
+3,0,TFFFC,dsf.eqg,Loading Characters
+3,0,TFFFC,rpt.eqg,Loading Characters
 3,0,TFFFC,ALA.eqg,Loading Characters
 3,0,TFFFC,crs.eqg,Loading Characters
 3,0,TFFFC,mwr.eqg,Loading Characters
