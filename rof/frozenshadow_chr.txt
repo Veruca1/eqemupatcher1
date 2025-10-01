@@ -1,4 +1,4 @@
-20
+21
 lgr,lgr_chr
 dke,dke
 btn,btn
@@ -19,3 +19,4 @@ cst,cst
 sef,sef_chr
 gnd,gnd
 lif,eastkarana_chr
+bgm,oasis_chr
