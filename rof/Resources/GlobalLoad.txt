@@ -324,7 +324,6 @@
 1,0,TFFF,unrest_chr,Loading Characters
 1,0,TFFF,vac_chr,Loading Characters
 1,0,TFFF,vas_chr,Loading Characters
-1,0,TFFF,veeshan_chr,Loading Characters
 1,0,TFFF,veg_chr,Loading Characters
 1,0,TFFF,vek_chr,Loading Characters
 1,0,TFFF,velketor_chr,Loading Characters
@@ -414,6 +413,7 @@
 2,0,TFFFE,wallet39.eqg,Loading Character Equipment Files
 2,0,TFFFE,wallet40.eqg,Loading Character Equipment Files
 2,0,TFFFE,wallet41.eqg,Loading Character Equipment Files
+3,0,TFFFC,cst_chr,Loading Characters
 3,0,TFFFC,g05.eqg,Loading Characters
 3,0,TFFFC,I10.eqg,Loading Characters
 3,0,TFFFC,thfobj.eqg,Loading Characters
