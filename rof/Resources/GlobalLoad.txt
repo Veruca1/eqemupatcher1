@@ -221,7 +221,6 @@
 1,0,TFFF,potactics_chr,Loading Characters
 1,0,TFFF,potimea_chr,Loading Characters
 1,0,TFFF,potimeb_chr,Loading Characters
-1,0,TFFF,potorment_chr,Loading Characters
 1,0,TFFF,povalor_chr,Loading Characters
 1,0,TFFF,powar_chr,Loading Characters
 1,0,TFFF,powater_chr,Loading Characters
