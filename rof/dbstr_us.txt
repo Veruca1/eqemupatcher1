@@ -210,7 +210,7 @@
 14^13^Enchanters^0
 14^16^14 (Energeiac: Raid)^0
 14^17^Faycetum^0
-14^18^Faycitum^0
+14^18^Elemental Essence^0
 14^20^Secrets of Faydwer^0
 15^5^Combat Abilities^0
 15^6^Mends major wounds, healing between #1 and @1 hit points.^0
