@@ -27182,7 +27182,7 @@
 26305^6^A magical splash of glyphdust which temporarily reduces a target's melee attack speed, movement rate, OR armor protection.^0
 26306^6^Reduces melee speed as low as #2 percent.^0
 26307^6^Reduces melee speed as low as #2 percent.^0
-26308^6^Reduces melee speed as low as #2 percent.^0
+26308^6^Reduces spell casting haste by 70 Percent^0
 26309^6^Reduces movement rate by up to #2 percent.^0
 26310^6^Reduces movement rate by up to #2 percent.^0
 26311^6^Reduces movement rate by up to #2 percent.^0
@@ -36099,13 +36099,18 @@
 41234^0^This campsite will empower you and your friends, causing their restorative abilities up to level 60 to be up to 15 percent more potent.<br><br>This banner requires a Fellowship Kit: Aura of Recovery and a Fellowship Lumber Bundle: Light Brown Maple to create.^0
 41235^0^This campsite will empower you and your friends, causing their restorative abilities up to level 60 to be up to 20 percent more potent.<br><br>This banner requires a Fellowship Kit: Aura of Recovery and a Fellowship Lumber Bundle: Yellow Maple to create.^0
 41236^0^This campsite will empower you and your friends, causing their restorative abilities up to level 65 to be up to 5 percent more potent.<br><br>This banner requires a Fellowship Kit: Aura of Recovery and a Fellowship Lumber Bundle: Red Ash to create.^0
+41236^6^Decreases Melee Speed By 80 Percent^0
 41237^0^This campsite will empower you and your friends, causing their restorative abilities up to level 65 to be up to 10 percent more potent.<br><br>This banner requires a Fellowship Kit: Aura of Recovery and a Fellowship Lumber Bundle: Dark Brown Ash to create.^0
 41238^0^This campsite will empower you and your friends, causing their restorative abilities up to level 65 to be up to 15 percent more potent.<br><br>This banner requires a Fellowship Kit: Aura of Recovery and a Fellowship Lumber Bundle: Light Brown Ash to create.^0
 41239^0^This campsite will empower you and your friends, causing their restorative abilities up to level 65 to be up to 20 percent more potent.<br><br>This banner requires a Fellowship Kit: Aura of Recovery and a Fellowship Lumber Bundle: Yellow Ash to create.^0
+41239^6^Reduces Movement Speed by 75 Percent^0
 41240^0^This campsite will empower you and your friends, causing their restorative abilities up to level 70 to be up to 5 percent more potent.<br><br>This banner requires a Fellowship Kit: Aura of Recovery and a Fellowship Lumber Bundle: Red Fir to create.^0
+41240^6^Reduces all Resists by 750^0
 41241^0^This campsite will empower you and your friends, causing their restorative abilities up to level 70 to be up to 10 percent more potent.<br><br>This banner requires a Fellowship Kit: Aura of Recovery and a Fellowship Lumber Bundle: Dark Brown Fir to create.^0
 41242^0^This campsite will empower you and your friends, causing their restorative abilities up to level 70 to be up to 15 percent more potent.<br><br>This banner requires a Fellowship Kit: Aura of Recovery and a Fellowship Lumber Bundle: Light Brown Fir to create.^0
+41242^6^A 12 Second Silence^0
 41243^0^This campsite will empower you and your friends, causing their restorative abilities up to level 70 to be up to 20 percent more potent.<br><br>This banner requires a Fellowship Kit: Aura of Recovery and a Fellowship Lumber Bundle: Yellow Fir to create.^0
+41243^6^Buffs a whole bunch of shit on NPCs^0
 41244^0^This campsite will empower you and your friends, causing their restorative abilities up to level 75 to be up to 5 percent more potent.<br><br>This banner requires a Fellowship Kit: Aura of Recovery and a Fellowship Lumber Bundle: Red Briarwood to create.^0
 41245^0^This campsite will empower you and your friends, causing their restorative abilities up to level 75 to be up to 10 percent more potent.<br><br>This banner requires a Fellowship Kit: Aura of Recovery and a Fellowship Lumber Bundle: Dark Brown Briarwood to create.^0
 41246^0^This campsite will empower you and your friends, causing their restorative abilities up to level 75 to be up to 15 percent more potent.<br><br>This banner requires a Fellowship Kit: Aura of Recovery and a Fellowship Lumber Bundle: Light Brown Briarwood to create.^0
