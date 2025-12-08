@@ -5444,7 +5444,7 @@
 2986^0^The year is 3032 in the Age of Turmoil.^0
 2986^6^You feel blessed by the Shissar, increasing your hit-point regeneration by #1 for %z.^0
 2987^6^You are enveloped in an aura of scale, increasing your fire resist by #2 for %z.^0
-2989^6^Your enemy is struck down by a needlite fever, decreasing hit points by #2 for %z.^0
+2989^6^Your enemy is struck down by a needlite fever, decreasing hit points by 125000 for 30 seconds (5 tics), with an initial nuke for 100000^0
 2992^6^Rends your target's body with deathly fire, dealing between #1 and @1 damage.^0
 2995^6^Spores dig deep into your target, decreasing hit points by #1.^0
 2996^6^Tears the flesh of the target, decreasing its hit points by #1.^0
