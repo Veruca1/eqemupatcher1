@@ -200,7 +200,7 @@
 13^13^Magicians^0
 13^16^13 (Energeiac: Group)^0
 13^17^Phosphite^0
-13^18^Phosphites^0
+13^18^Twilight Reliquary^0
 13^20^The Buried Sea^0
 14^5^Cold^0
 14^6^Calls upon the power of the gods to strike your target, causing between #1 and @1 damage.^0
