@@ -753,7 +753,6 @@
 107^11^Mammoth^0
 107^12^Mammoths^0
 108^5^Summon Food/Water^0
-108^6^Covers your skin in an elemental shield, protecting you from fire and cold.^0
 108^11^Eye^0
 108^12^Eyes^0
 109^5^Summon Utility^0
@@ -36212,6 +36211,7 @@
 41341^0^This campsite will empower you and your friends, reducing the speed at which their long term beneficial abilites up to level 75 are invoked by up to 10 percent.<br><br>This banner requires a Fellowship Kit: Aura of Benefit Alacrity and a Fellowship Lumber Bundle: Dark Brown Briarwood to create.^0
 41342^0^This campsite will empower you and your friends, reducing the speed at which their long term beneficial abilites up to level 75 are invoked by up to 15 percent.<br><br>This banner requires a Fellowship Kit: Aura of Benefit Alacrity and a Fellowship Lumber Bundle: Light Brown Briarwood to create.^0
 41343^0^This campsite will empower you and your friends, reducing the speed at which their long term beneficial abilites up to level 75 are invoked by up to 20 percent.<br><br>This banner requires a Fellowship Kit: Aura of Benefit Alacrity and a Fellowship Lumber Bundle: Yellow Briarwood to create.^0
+41343^6^Amplifies your ice based spells by 100%^0
 41344^0^This campsite will empower you and your friends, causing their duration-based abilities up to level 20 to last up to 3 percent longer.<br><br>This banner requires a Fellowship Kit: Aura of Extension and a Fellowship Lumber Bundle: Red Elm to create.^0
 41345^0^This campsite will empower you and your friends, causing their duration-based abilities up to level 20 to last up to 6 percent longer.<br><br>This banner requires a Fellowship Kit: Aura of Extension and a Fellowship Lumber Bundle: Dark Brown Elm to create.^0
 41346^0^This campsite will empower you and your friends, causing their duration-based abilities up to level 20 to last up to 9 percent longer.<br><br>This banner requires a Fellowship Kit: Aura of Extension and a Fellowship Lumber Bundle: Light Brown Elm to create.^0
